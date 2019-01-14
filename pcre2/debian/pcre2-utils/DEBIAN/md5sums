@@ -1,0 +1,7 @@
+22b1c21da7ee2e0f382e86e004651375  usr/bin/pcre2grep
+19957b49ed1a9e3df6c844dbabec20c4  usr/bin/pcre2test
+4cd5340219a28dcdbad2407fdf1c3be0  usr/share/doc/pcre2-utils/changelog.Debian.gz
+aaab0d24a6ec1fa37711ec4719b5241a  usr/share/doc/pcre2-utils/changelog.gz
+2fd254e240f8f30f95d53cb1af479b04  usr/share/doc/pcre2-utils/copyright
+ce80634775d2f13a2c0d63c5593d2e96  usr/share/man/man1/pcre2grep.1.gz
+5c6d5fded12420ea970a81bda510e4d1  usr/share/man/man1/pcre2test.1.gz

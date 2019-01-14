@@ -1,0 +1,8 @@
+libpcre2-16-0_10.32-3_amd64.deb libs optional
+libpcre2-32-0_10.32-3_amd64.deb libs optional
+libpcre2-8-0-udeb_10.32-3_amd64.udeb debian-installer optional
+libpcre2-8-0_10.32-3_amd64.deb libs optional
+libpcre2-dbg_10.32-3_amd64.deb debug optional
+libpcre2-dev_10.32-3_amd64.deb libdevel optional
+libpcre2-posix0_10.32-3_amd64.deb libs optional
+pcre2-utils_10.32-3_amd64.deb utils optional

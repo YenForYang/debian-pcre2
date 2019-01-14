@@ -1,0 +1,11 @@
+Package: libpcre2-8-0-udeb
+Source: pcre2
+Version: 10.32-3
+Architecture: amd64
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 923
+Depends: libc6-udeb (>= 2.28)
+Section: debian-installer
+Priority: optional
+Description: New Perl Compatible Regular Expression Library- 8 bit runtime files (udeb)
+ This package contains the 8 bit runtime library, for the Debian Installer.

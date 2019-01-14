@@ -1,0 +1,20 @@
+Package: libpcre2-dbg
+Source: pcre2
+Version: 10.32-3
+Architecture: amd64
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 1127
+Depends: libpcre2-8-0 (= 10.32-3), libpcre2-16-0 (= 10.32-3), libpcre2-32-0 (= 10.32-3), libpcre2-posix0 (= 10.32-3)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Homepage: https://pcre.org/
+Description: New Perl Compatible Regular Expression Library - debug symbols
+ This is PCRE2, the new implementation of PCRE, a library of functions
+ to support regular expressions whose syntax and semantics are as
+ close as possible to those of the Perl 5 language. New projects
+ should use this library in preference to the older library,
+ confusingly called pcre3 in Debian.
+ .
+ This package contains the debug symbols.
+Build-Ids: 3f368b316d32512bd42b55d6bfb9f211656fa419 88fffed666b1741f4a43215b923da8710c414cc5 cb9f45219dd8de80661151c7585343de598ae50f dadd0fa9a077613f58d96d7816b822d7ad6e884d dc0670fb19935a8477823fef30fc3db8d9ccd2ef e3dff42c74e1ea50ed0fd43bd1b8e738016a2695
